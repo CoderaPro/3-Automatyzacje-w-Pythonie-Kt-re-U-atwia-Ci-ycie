@@ -11,4 +11,4 @@ Ten projekt to przykład automatyzacji, która została stworzona z myślą o el
 ## Jak używać
 1. **Klonuj repozytorium**  
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/CoderaPro/3-Automatyzacje-w-Pythonie-Kt-re-U-atwia-Ci-ycie/tree/main
